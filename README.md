@@ -1,1 +1,1 @@
-"# NanoDegree-Project-2" 
+This repository contains files for the completion of Project 3 for the Udacity Nanodegree: Front End Web developer.
